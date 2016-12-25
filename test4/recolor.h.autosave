@@ -1,0 +1,11 @@
+#ifndef RECOLOR_H
+#define RECOLOR_H
+
+/*Class for extracting  vector of pixe
+class Recolor
+{
+public:
+    Recolor();
+};
+
+#endif // RECOLOR_H

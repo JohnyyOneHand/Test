@@ -1,0 +1,6 @@
+#include "recolor.h"
+
+Recolor::Recolor()
+{
+
+}
